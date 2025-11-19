@@ -2,7 +2,7 @@ name: 'My Coolest Website ben'
 description: 'So much potential'
 tagline: 'yada yada'
 url: 'http://bnyameyeog.github.io'
-baseurl: '/SampleWebsite'
+baseurl: '/studious-carnival'
 paginate: 10
 
 markdown: kramdown
